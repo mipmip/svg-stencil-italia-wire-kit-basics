@@ -1,0 +1,1780 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="99.21875mm"
+   height="57.149998mm"
+   viewBox="0 0 99.21875 57.149997"
+   version="1.1"
+   id="svg5"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <rect
+       id="path-1-50"
+       x="281.5"
+       y="108"
+       width="31.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-2-6">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11616" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11618" />
+    </filter>
+    <rect
+       id="path-3-4"
+       x="327"
+       y="108"
+       width="42"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-4-7">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11622" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11624" />
+    </filter>
+    <rect
+       id="path-5"
+       x="46.5"
+       y="160"
+       width="41"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-6-8">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11628" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11630" />
+    </filter>
+    <rect
+       id="path-7"
+       x="0"
+       y="160"
+       width="40.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-8">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11634" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11636" />
+    </filter>
+    <rect
+       id="path-9"
+       x="0"
+       y="108"
+       width="42"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-10">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11640" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11642" />
+    </filter>
+    <rect
+       id="path-11"
+       x="281.5"
+       y="160"
+       width="87.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-12">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11646" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11648" />
+    </filter>
+    <path
+       d="M 93,165.00366 C 93,162.24021 95.241632,160 97.999877,160 H 270.50012 c 2.76136,0 4.99988,2.24325 4.99988,5.00366 v 31.99268 C 275.5,199.75979 273.25837,202 270.50012,202 H 97.999877 C 95.238521,202 93,199.75675 93,196.99634 Z"
+       id="path-13" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238095"
+       filterUnits="objectBoundingBox"
+       id="filter-14">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11652" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11654" />
+    </filter>
+    <rect
+       id="path-15"
+       x="244"
+       y="108"
+       width="31.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-16">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11658" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11660" />
+    </filter>
+    <rect
+       id="path-17"
+       x="206.5"
+       y="108"
+       width="31.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-18">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11664" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11666" />
+    </filter>
+    <rect
+       id="path-19"
+       x="169"
+       y="108"
+       width="31.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-20">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11670" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11672" />
+    </filter>
+    <rect
+       id="path-21"
+       x="131"
+       y="108"
+       width="31.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-22">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11676" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11678" />
+    </filter>
+    <rect
+       id="path-23"
+       x="93.5"
+       y="108"
+       width="31.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-24">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11682" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11684" />
+    </filter>
+    <rect
+       id="path-25"
+       x="56"
+       y="108"
+       width="31.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-26">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11688" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11690" />
+    </filter>
+    <rect
+       id="path-27"
+       x="319"
+       y="54"
+       width="31.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-28">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11694" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11696" />
+    </filter>
+    <rect
+       id="path-29"
+       x="281.5"
+       y="54"
+       width="31.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-30">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11700" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11702" />
+    </filter>
+    <rect
+       id="path-31"
+       x="244"
+       y="54"
+       width="31.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-32">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11706" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11708" />
+    </filter>
+    <rect
+       id="path-33"
+       x="206.5"
+       y="54"
+       width="31.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-34">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11712" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11714" />
+    </filter>
+    <rect
+       id="path-35"
+       x="169"
+       y="54"
+       width="31.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-36">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11718" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11720" />
+    </filter>
+    <rect
+       id="path-37"
+       x="131"
+       y="54"
+       width="31.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-38">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11724" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11726" />
+    </filter>
+    <rect
+       id="path-39"
+       x="93.5"
+       y="54"
+       width="31.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-40">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11730" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11732" />
+    </filter>
+    <rect
+       id="path-41"
+       x="56"
+       y="54"
+       width="31.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-42">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11736" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11738" />
+    </filter>
+    <rect
+       id="path-43"
+       x="18.5"
+       y="54"
+       width="31.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-44">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11742" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11744" />
+    </filter>
+    <rect
+       id="path-45"
+       x="337.5"
+       y="0"
+       width="31.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-46">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11748" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11750" />
+    </filter>
+    <rect
+       id="path-47"
+       x="300"
+       y="0"
+       width="31.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-48">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11754" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11756" />
+    </filter>
+    <rect
+       id="path-49"
+       x="262.5"
+       y="0"
+       width="31.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-50">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11760" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11762" />
+    </filter>
+    <rect
+       id="path-51"
+       x="225"
+       y="0"
+       width="31.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-52">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11766" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11768" />
+    </filter>
+    <rect
+       id="path-53"
+       x="187.5"
+       y="0"
+       width="31.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-54">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11772" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11774" />
+    </filter>
+    <rect
+       id="path-55"
+       x="150"
+       y="0"
+       width="31.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-56">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11778" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11780" />
+    </filter>
+    <rect
+       id="path-57"
+       x="112.5"
+       y="0"
+       width="31.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-58">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11784" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11786" />
+    </filter>
+    <rect
+       id="path-59"
+       x="75"
+       y="0"
+       width="31.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-60">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11790" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11792" />
+    </filter>
+    <rect
+       id="path-61"
+       x="37.5"
+       y="0"
+       width="31.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-62">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11796" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11798" />
+    </filter>
+    <rect
+       id="path-63"
+       x="0"
+       y="0"
+       width="31.5"
+       height="42"
+       rx="5" />
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1.0238096"
+       filterUnits="objectBoundingBox"
+       id="filter-64">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11802" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"
+         type="matrix"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix11804" />
+    </filter>
+  </defs>
+  <g
+     id="layer10"
+     transform="translate(-694.74831,-412.03912)"
+     style="display:inline">
+    <g
+       id="Keyboard-ABC-Shift---4.7&quot;"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+       transform="matrix(0.26458333,0,0,0.26458333,694.74831,412.03912)">
+      <polygon
+         id="Background-4"
+         fill="#cfdce6"
+         points="0,0 375,0 375,216 0,216 0,201.39844 " />
+      <g
+         id="Shapes-0"
+         transform="translate(3,10)">
+        <g
+           id="Shape-0">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-2)"
+             xlink:href="#path-1-50"
+             id="use11810"
+             style="filter:url(#filter-2-6)"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-1-50"
+             id="use11812"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11819">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-4)"
+             xlink:href="#path-3-4"
+             id="use11815"
+             style="filter:url(#filter-4-7)"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#baccd9"
+             fill-rule="evenodd"
+             xlink:href="#path-3-4"
+             id="use11817"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11825">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-6)"
+             xlink:href="#path-5"
+             id="use11821"
+             style="filter:url(#filter-6-8)"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#baccd9"
+             fill-rule="evenodd"
+             xlink:href="#path-5"
+             id="use11823"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11831">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-8)"
+             xlink:href="#path-7"
+             id="use11827"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#baccd9"
+             fill-rule="evenodd"
+             xlink:href="#path-7"
+             id="use11829"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11837">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-10)"
+             xlink:href="#path-9"
+             id="use11833"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-9"
+             id="use11835"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11843">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-12)"
+             xlink:href="#path-11"
+             id="use11839"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#baccd9"
+             fill-rule="evenodd"
+             xlink:href="#path-11"
+             id="use11841"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11849">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-14)"
+             xlink:href="#path-13"
+             id="use11845"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-13"
+             id="use11847"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11855">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-16)"
+             xlink:href="#path-15"
+             id="use11851"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-15"
+             id="use11853"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11861">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-18)"
+             xlink:href="#path-17"
+             id="use11857"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-17"
+             id="use11859"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11867">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-20)"
+             xlink:href="#path-19"
+             id="use11863"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-19"
+             id="use11865"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11873">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-22)"
+             xlink:href="#path-21"
+             id="use11869"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-21"
+             id="use11871"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11879">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-24)"
+             xlink:href="#path-23"
+             id="use11875"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-23"
+             id="use11877"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="Voice-Input"
+           transform="translate(93,160)" />
+        <g
+           id="g11886">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-26)"
+             xlink:href="#path-25"
+             id="use11882"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-25"
+             id="use11884"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11892">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-28)"
+             xlink:href="#path-27"
+             id="use11888"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-27"
+             id="use11890"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11898">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-30)"
+             xlink:href="#path-29"
+             id="use11894"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-29"
+             id="use11896"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11904">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-32)"
+             xlink:href="#path-31"
+             id="use11900"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-31"
+             id="use11902"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11910">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-34)"
+             xlink:href="#path-33"
+             id="use11906"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-33"
+             id="use11908"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11916">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-36)"
+             xlink:href="#path-35"
+             id="use11912"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-35"
+             id="use11914"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11922">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-38)"
+             xlink:href="#path-37"
+             id="use11918"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-37"
+             id="use11920"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11928">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-40)"
+             xlink:href="#path-39"
+             id="use11924"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-39"
+             id="use11926"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11934">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-42)"
+             xlink:href="#path-41"
+             id="use11930"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-41"
+             id="use11932"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11940">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-44)"
+             xlink:href="#path-43"
+             id="use11936"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-43"
+             id="use11938"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11946">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-46)"
+             xlink:href="#path-45"
+             id="use11942"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-45"
+             id="use11944"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11952">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-48)"
+             xlink:href="#path-47"
+             id="use11948"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-47"
+             id="use11950"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11958">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-50)"
+             xlink:href="#path-49"
+             id="use11954"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-49"
+             id="use11956"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11964">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-52)"
+             xlink:href="#path-51"
+             id="use11960"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-51"
+             id="use11962"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11970">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-54)"
+             xlink:href="#path-53"
+             id="use11966"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-53"
+             id="use11968"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11976">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-56)"
+             xlink:href="#path-55"
+             id="use11972"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-55"
+             id="use11974"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11982">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-58)"
+             xlink:href="#path-57"
+             id="use11978"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-57"
+             id="use11980"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11988">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-60)"
+             xlink:href="#path-59"
+             id="use11984"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-59"
+             id="use11986"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g11994">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-62)"
+             xlink:href="#path-61"
+             id="use11990"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-61"
+             id="use11992"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           id="g12000">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-64)"
+             xlink:href="#path-63"
+             id="use11996"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill="#ffffff"
+             fill-rule="evenodd"
+             xlink:href="#path-63"
+             id="use11998"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+      <g
+         id="Icons"
+         transform="translate(12,128.5)"
+         fill="#5a768a">
+        <path
+           d="m 329.5,10.5 v 0 c 0,0.826904 6.25088,6.33244 6.25088,6.33244 0.41149,0.367882 1.19764,0.66756 1.75092,0.66756 h 9.49679 C 348.10103,17.5 349,16.605277 349,15.501581 V 5.4984194 C 349,4.3970601 348.10394,3.5 346.99859,3.5 h -9.49679 c -0.55692,0 -1.33423,0.2962155 -1.7443,0.6616158 0,0 -6.2575,5.5114799 -6.2575,6.3383842 z M 346.99859,2 C 348.93133,2 350.5,3.567595 350.5,5.4984194 V 15.501581 C 350.5,17.433542 348.92962,19 346.99859,19 h -9.49679 c -0.9219,0 -2.06401,-0.435424 -2.74235,-1.041915 l -0.0811,-0.07162 c -0.0504,-0.04463 -0.11534,-0.102266 -0.19348,-0.17183 -0.21617,-0.192439 -0.45683,-0.408074 -0.71591,-0.641973 -0.7407,-0.668716 -1.48165,-1.350716 -2.17491,-2.007174 -0.13165,-0.124654 -0.26054,-0.247423 -0.38648,-0.368147 -2.36224,-2.264441 -3.15482,-3.126971 -3.20503,-4.096593 L 328,10.5 c 0,-1.0126944 0.76436,-1.8552683 3.21101,-4.2004196 0.12593,-0.1207014 0.2548,-0.2434449 0.38642,-0.3680713 0.69398,-0.6570984 1.43569,-1.3397868 2.17717,-2.0091919 0.25935,-0.2341395 0.50025,-0.4499987 0.71665,-0.642639 0.13037,-0.1160586 0.22401,-0.198943 0.26834,-0.2379623 C 335.44571,2.4303374 336.57862,2 337.5018,2 Z m -8.22231,4.9656153 c -0.29622,-0.2962122 -0.76892,-0.2940424 -1.06181,-0.00115 v 0 l -0.0731,0.084591 c -0.219,0.294921 -0.19263,0.7103747 0.0742,0.9772183 v 0 L 340.189,10.5 l -2.47338,2.473724 c -0.26929,0.269284 -0.29198,0.684429 -0.0738,0.977739 l 0.0727,0.08407 0.0846,0.07307 c 0.29492,0.219 0.71037,0.192628 0.97722,-0.07421 v 0 L 341.25,11.561 l 2.47372,2.473385 c 0.26929,0.269284 0.68443,0.291971 0.97774,0.07381 l 0.0841,-0.07267 0.0731,-0.08459 c 0.219,-0.294921 0.19263,-0.710375 -0.0742,-0.977219 v 0 L 342.311,10.5 344.78438,8.0262755 c 0.26929,-0.2692839 0.29198,-0.6844286 0.0738,-0.977739 l -0.0727,-0.08407 -0.0846,-0.073066 c -0.29492,-0.2189997 -0.71037,-0.1926283 -0.97722,0.074215 v 0 L 341.25,9.439 Z"
+           id="Delete-Icon-6"
+           fill-rule="nonzero" />
+        <path
+           d="m 57.75,52.5 c 5.384776,0 9.75,4.365224 9.75,9.75 0,5.293509 -4.218504,9.601733 -9.477093,9.746254 L 57.75,72 C 52.365224,72 48,67.634776 48,62.25 48,56.865224 52.365224,52.5 57.75,52.5 Z m 0,1 c -4.832492,0 -8.75,3.917508 -8.75,8.75 0,4.746197 3.778847,8.609797 8.492009,8.746269 L 57.75,71 c 4.832492,0 8.75,-3.917508 8.75,-8.75 0,-4.832492 -3.917508,-8.75 -8.75,-8.75 z M 51,63.5 c 0,-1.940918 3.022078,0 6.75,0 3.727922,0 6.75,-1.904053 6.75,0 0,2.022461 -3.022078,5.5 -6.75,5.5 C 54.022078,69 51,65.575928 51,63.5 Z m 1.965209,0.174187 C 52.699415,63.578468 52.5,63.723858 52.5,64 c 0,0.268066 0.157805,0.649044 0.352466,0.832899 0,0 0.694287,1.167101 4.942334,1.167101 4.248047,0 4.853564,-1.1521 4.853564,-1.1521 C 62.850332,64.672069 63,64.276142 63,64 v 0 l -0.0061,-0.07668 c -0.03589,-0.218417 -0.226844,-0.328722 -0.457022,-0.23523 0,0 -1.656729,0.811908 -4.673758,0.811908 -3.017029,0 -4.89795,-0.825813 -4.89795,-0.825813 z M 54.75,58 c 0.690356,0 1.25,0.559644 1.25,1.25 0,0.690356 -0.559644,1.25 -1.25,1.25 -0.690356,0 -1.25,-0.559644 -1.25,-1.25 0,-0.690356 0.559644,-1.25 1.25,-1.25 z m 6,0 c 0.690356,0 1.25,0.559644 1.25,1.25 0,0.690356 -0.559644,1.25 -1.25,1.25 -0.690356,0 -1.25,-0.559644 -1.25,-1.25 0,-0.690356 0.559644,-1.25 1.25,-1.25 z"
+           id="Emojis-Icon" />
+        <path
+           d="m 11.409018,1.0747875 c 0.590778,-0.55812102 1.087239,-0.51858504 1.773058,0 v 0 L 23.22941,11.713141 c 0.114073,0.613073 -0.03555,0.986025 -0.59102,1.182039 v 0 l -5.846893,-2.93e-4 8.99e-4,6.092799 c 0,0.552135 -0.449436,0.999729 -1.007617,0.999729 H 8.2152958 c -0.5564915,0 -1.007617,-0.451819 -1.007617,-0.999729 l -1.82e-4,-6.092799 -5.8458125,2.93e-4 C 0.85176351,12.682536 0.68071599,12.35034 0.74873666,11.843516 l 0.021928,-0.130375 z"
+           id="Capitalize-Icon" />
+      </g>
+      <g
+         id="Keys"
+         transform="translate(3,14.5)"
+         fill="#627d90"
+         font-family="Helvetica"
+         font-weight="normal">
+        <text
+           id="Q"
+           font-size="22.5px"><tspan
+             x="6.9993896"
+             y="21"
+             id="tspan12007">Q</tspan></text>
+        <text
+           id="Z"
+           font-size="22.5px"><tspan
+             x="64.878052"
+             y="129"
+             id="tspan12010">Z</tspan></text>
+        <text
+           id="R"
+           font-size="22.5px"><tspan
+             x="120.12561"
+             y="21"
+             id="tspan12013">R</tspan></text>
+        <text
+           id="V"
+           font-size="22.5px"><tspan
+             x="177.24634"
+             y="129"
+             id="tspan12016">V</tspan></text>
+        <text
+           id="D"
+           font-size="22.5px"><tspan
+             x="101.12561"
+             y="75"
+             id="tspan12019">D</tspan></text>
+        <text
+           id="U"
+           font-size="22.5px"><tspan
+             x="232.62561"
+             y="21"
+             id="tspan12022">U</tspan></text>
+        <text
+           id="H"
+           font-size="22.5px"><tspan
+             x="214.12561"
+             y="75"
+             id="tspan12025">H</tspan></text>
+        <text
+           id="W"
+           font-size="22.5px"><tspan
+             x="42.631714"
+             y="21"
+             id="tspan12028">W</tspan></text>
+        <text
+           id="X"
+           font-size="22.5px"><tspan
+             x="101.74634"
+             y="129"
+             id="tspan12031">X</tspan></text>
+        <text
+           id="T"
+           font-size="22.5px"><tspan
+             x="158.87805"
+             y="21"
+             id="tspan12034">T</tspan></text>
+        <text
+           id="B"
+           font-size="22.5px"><tspan
+             x="214.74634"
+             y="129"
+             id="tspan12037">B</tspan></text>
+        <text
+           id="F"
+           font-size="22.5px"><tspan
+             x="139.87805"
+             y="75"
+             id="tspan12040">F</tspan></text>
+        <text
+           id="I"
+           font-size="22.5px"><tspan
+             x="275.12439"
+             y="21"
+             id="tspan12043">I</tspan></text>
+        <text
+           id="J"
+           font-size="22.5px"><tspan
+             x="254.125"
+             y="75"
+             id="tspan12046">J</tspan></text>
+        <text
+           id="E"
+           font-size="22.5px"><tspan
+             x="83.246338"
+             y="21"
+             id="tspan12049">E</tspan></text>
+        <text
+           id="C"
+           font-size="22.5px"><tspan
+             x="138.62561"
+             y="129"
+             id="tspan12052">C</tspan></text>
+        <text
+           id="S"
+           font-size="22.5px"><tspan
+             x="64.246338"
+             y="75"
+             id="tspan12055">S</tspan></text>
+        <text
+           id="A"
+           font-size="22.5px"><tspan
+             x="26.746338"
+             y="75"
+             id="tspan12058">A</tspan></text>
+        <text
+           id="Y"
+           font-size="22.5px"><tspan
+             x="195.74634"
+             y="21"
+             id="tspan12061">Y</tspan></text>
+        <text
+           id="N"
+           font-size="22.5px"><tspan
+             x="251.62561"
+             y="129"
+             id="tspan12064">N</tspan></text>
+        <text
+           id="M"
+           font-size="22.5px"><tspan
+             x="287.87866"
+             y="129"
+             id="tspan12067">M</tspan></text>
+        <text
+           id="G"
+           font-size="22.5px"><tspan
+             x="175.99939"
+             y="75"
+             id="tspan12070">G</tspan></text>
+        <text
+           id="O"
+           font-size="22.5px"><tspan
+             x="306.99939"
+             y="21"
+             id="tspan12073">O</tspan></text>
+        <text
+           id="K"
+           font-size="22.5px"><tspan
+             x="289.74634"
+             y="75"
+             id="tspan12076">K</tspan></text>
+        <text
+           id="P"
+           font-size="22.5px"><tspan
+             x="345.74634"
+             y="21"
+             id="tspan12079">P</tspan></text>
+        <text
+           id="L"
+           font-size="22.5px"><tspan
+             x="328.49329"
+             y="75"
+             id="tspan12082">L</tspan></text>
+        <text
+           id="space"
+           font-size="16px"
+           line-spacing="20.5"
+           letter-spacing="-0.5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.5"
+           x="162.45671"
+           y="180.01985"><tspan
+             id="tspan17660"
+             x="162.45671"
+             y="180.01985">space</tspan></text>
+        <text
+           id="123"
+           font-size="16px"
+           line-spacing="20"
+           letter-spacing="-0.3"><tspan
+             x="7.4523439"
+             y="181"
+             id="tspan12090">12</tspan><tspan
+             x="24.64922"
+             y="181"
+             id="tspan12092">3</tspan></text>
+        <text
+           id="return"
+           font-size="16px"
+           line-spacing="20"
+           letter-spacing="-0.4"><tspan
+             x="305.55157"
+             y="181"
+             id="tspan12095">return</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

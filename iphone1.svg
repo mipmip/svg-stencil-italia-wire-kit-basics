@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="849.86481mm"
+   height="1138.8922mm"
+   viewBox="0 0 849.86481 1138.8922"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="tmpxr358jrf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.09199118"
+     inkscape:cx="1505.5791"
+     inkscape:cy="2451.322"
+     inkscape:window-width="1440"
+     inkscape:window-height="811"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer7"
+     showborder="true"
+     lock-margins="true"
+     fit-margin-top="20"
+     fit-margin-left="20"
+     fit-margin-right="20"
+     fit-margin-bottom="20"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs2">
+    <rect
+       id="path-1-5"
+       x="0"
+       y="0"
+       width="375"
+       height="667" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="iphone1"
+     transform="translate(-3.4353907,2.156121)"
+     style="display:inline">
+    <g
+       id="Frame/iPhone-6-light"
+       transform="matrix(0.26458333,0,0,0.26458333,716.51432,117.43736)"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+      <path
+         d="m 4.4546381,353.63782 -2.4618445,-0.0736 C 0.8922041,353.53136 0,352.61663 0,351.50176 V 290.9481 c 0,-1.10619 0.90146249,-2.01866 1.9927936,-2.03769 l 2.4618445,-0.0429 v -38.0368 l -1.4586151,-0.001 C 1.3413652,250.82767 0,249.47861 0,247.82206 v -58.51971 c 0,-1.65924 1.3365383,-3.00675 2.996023,-3.00976 l 1.4586151,-0.003 v -37.63775 l -1.4586151,1e-5 C 1.3413652,148.6522 0,147.30655 0,145.64939 V 120.338 c 0,-1.65841 1.3365265,-3.00281 3.0039532,-3.00281 H 5.1898934 L 4.8306122,59.999546 C 4.6229674,26.862712 31.312933,0 64.452249,0 H 375.44327 c 33.13576,0 59.99761,26.854752 59.99761,60.004164 V 186.05126 h 1.45861 c 1.65466,0 2.99602,1.34526 2.99602,3.00842 v 57.68769 c 0,1.66151 -1.33653,3.00842 -2.99602,3.00842 h -1.45861 v 561.79646 c 0,33.14237 -26.8583,60.00956 -59.99761,60.00956 H 64.452249 c -33.135766,0 -59.9976109,-26.86793 -59.9976109,-59.99764 z"
+         id="iPhone6-outline"
+         stroke="#baccd9"
+         stroke-width="3"
+         fill="#ffffff" />
+      <g
+         id="Contained"
+         stroke-width="1"
+         transform="translate(33,103)">
+        <mask
+           id="mask-2-3"
+           fill="#ffffff">
+          <use
+             xlink:href="#path-1-5"
+             id="use9848"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </mask>
+        <rect
+           stroke="#baccd9"
+           x="0.5"
+           y="0.5"
+           width="374"
+           height="666"
+           id="rect9851" />
+      </g>
+      <g
+         id="iPhone-6-Mockup"
+         stroke-width="1"
+         transform="translate(145,52)">
+        <ellipse
+           id="home-Buttons"
+           stroke="#dde6ed"
+           stroke-width="3"
+           cx="74.39093"
+           cy="766.06439"
+           rx="33.409786"
+           ry="33.435875" />
+        <ellipse
+           id="camera"
+           fill="#cfdce6"
+           cx="7.5713558"
+           cy="7.0700464"
+           rx="6.6819572"
+           ry="6.6871753" />
+        <rect
+           id="speaker"
+           fill="#cfdce6"
+           x="42.094803"
+           y="0.38287121"
+           width="82.410805"
+           height="13.374351"
+           rx="6.6871753" />
+      </g>
+    </g>
+  </g>
+</svg>
