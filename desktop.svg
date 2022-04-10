@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="849.86481mm"
+   height="1138.8922mm"
+   viewBox="0 0 849.86481 1138.8922"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="tmp9k94ms4x"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.09199118"
+     inkscape:cx="1505.5791"
+     inkscape:cy="2451.322"
+     inkscape:window-width="1440"
+     inkscape:window-height="811"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer7"
+     showborder="true"
+     lock-margins="true"
+     fit-margin-top="20"
+     fit-margin-left="20"
+     fit-margin-right="20"
+     fit-margin-bottom="20"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs2">
+    <filter
+       x="-0.031738269"
+       y="-0.39969641"
+       width="1.0634765"
+       height="1.9104196"
+       filterUnits="objectBoundingBox"
+       id="filter-3">
+      <feGaussianBlur
+         stdDeviation="1.5"
+         in="SourceAlpha"
+         result="shadowBlurInner1"
+         id="feGaussianBlur3495" />
+      <feOffset
+         dx="0"
+         dy="1"
+         in="shadowBlurInner1"
+         result="shadowOffsetInner1"
+         id="feOffset3497" />
+      <feComposite
+         in="shadowOffsetInner1"
+         in2="SourceAlpha"
+         operator="arithmetic"
+         k2="-1"
+         k3="1"
+         result="shadowInnerInner1"
+         id="feComposite3499"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         type="matrix"
+         in="shadowInnerInner1"
+         id="feColorMatrix3501" />
+    </filter>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="desktop"
+     style="display:inline"
+     transform="translate(-3.4353907,2.156121)">
+    <g
+       id="Browser"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+       transform="matrix(0.26458333,0,0,0.26458333,38.892567,307.91235)">
+      <path
+         d="M 5.9916854,-0.5 H 1274.0083 c 3.577,0 6.4917,2.9184048 6.4917,6.5081817 V 713.99182 c 0,3.60128 -2.9025,6.50818 -6.4917,6.50818 H 5.9916854 C 2.4147104,720.5 -0.5,717.58159 -0.5,713.99182 V 6.0081817 C -0.5,2.4068986 2.4025273,-0.5 5.9916854,-0.5 Z"
+         id="Browser-Window"
+         stroke="#b0b0b0" />
+      <path
+         d="M 4.9910908,0 C 2.2345875,0 0,2.2311917 0,5.0092237 V 37 H 1280 V 5.0092237 C 1280,2.2427058 1277.7707,0 1275.0089,0 Z"
+         id="Window-Top"
+         fill="#dedede" />
+      <g
+         id="OS-Window-Buttons"
+         transform="translate(10,15)">
+        <path
+           d="M 5.3076923,11 C 8.23905,11 10.615385,8.5375663 10.615385,5.5 10.615385,2.4624337 8.23905,0 5.3076923,0 2.3763346,0 0,2.4624337 0,5.5 0,8.5375663 2.3763346,11 5.3076923,11 Z"
+           id="Close"
+           fill="#adadad" />
+        <path
+           d="M 23,11 C 25.931358,11 28.307692,8.5375663 28.307692,5.5 28.307692,2.4624337 25.931358,0 23,0 20.068642,0 17.692308,2.4624337 17.692308,5.5 17.692308,8.5375663 20.068642,11 23,11 Z"
+           id="Minimize"
+           fill="#c3c2c2" />
+        <path
+           d="M 40.692308,11 C 43.623665,11 46,8.5375663 46,5.5 46,2.4624337 43.623665,0 40.692308,0 37.76095,0 35.384615,2.4624337 35.384615,5.5 c 0,3.0375663 2.376335,5.5 5.307693,5.5 z"
+           id="Expand"
+           fill="#cbcbcb" />
+      </g>
+      <g
+         id="Inactive-Tab-"
+         transform="translate(72.995163,15)">
+        <polygon
+           id="Tab"
+           stroke="#c1c1c1"
+           fill="#cccccc"
+           points="180,25.924943 1.2789769e-13,26 12.415702,-1.7763568e-15 165.31665,-1.7763568e-15 "
+           transform="translate(0,-4)" />
+        <g
+           id="Page-Title"
+           fill="#cccccc"
+           transform="translate(2,2)">
+          <text
+             id="use3536"
+             font-family="LucidaGrande, 'Lucida Grande'"
+             font-size="11.5px"
+             font-weight="normal"
+             style="fill-rule:evenodd"><tspan
+               x="35.19553"
+               y="18"
+               id="tspan3728">Inactive Browser Tab</tspan><tspan
+               x="35.19553"
+               y="31"
+               id="tspan3730">Fade</tspan></text>
+          <text
+             id="use3540"
+             font-family="LucidaGrande, 'Lucida Grande'"
+             font-size="11.5px"
+             font-weight="normal"
+             style="fill-opacity:1;filter:url(#filter-3)"
+             x="-12.155537"
+             y="-5.6102476"><tspan
+               x="23.039991"
+               y="12.389752"
+               id="tspan3740">Inactive Browser Tab</tspan></text>
+        </g>
+        <g
+           id="close-tab"
+           transform="translate(150.83799,3)">
+          <rect
+             id="Rectangle-6"
+             fill="#cccccc"
+             x="0"
+             y="0"
+             width="11.423883"
+             height="13.08" />
+          <line
+             x1="3.7793272"
+             y1="4.3702188"
+             x2="8.0137253"
+             y2="9.2184753"
+             id="Path-8"
+             stroke="#868685"
+             stroke-width="1.5" />
+          <line
+             x1="3.7793272"
+             y1="4.3702188"
+             x2="8.0137253"
+             y2="9.2184753"
+             id="line3545"
+             stroke="#868685"
+             stroke-width="1.5"
+             transform="matrix(-1,0,0,1,11.793052,0)" />
+        </g>
+      </g>
+      <g
+         id="Active-Tab"
+         transform="translate(244,11)">
+        <polygon
+           id="polygon3549"
+           fill="#f0f0f0"
+           points="165.24055,-1.7763568e-15 179.85745,25.891868 0.67207683,25.966829 13.031589,-1.7763568e-15 " />
+        <g
+           id="g3557"
+           fill="#888888">
+          <text
+             id="use3551"
+             font-family="LucidaGrande, 'Lucida Grande'"
+             font-size="11.5px"
+             font-weight="normal"
+             style="fill-rule:evenodd"
+             x="-2.8051248"
+             y="-8.5294437e-07"><tspan
+               x="32.188183"
+               y="17.975349"
+               id="tspan3746">Active Browser Tab</tspan></text>
+        </g>
+        <g
+           id="g3565"
+           transform="translate(151.92215,6.97535)">
+          <rect
+             id="rect3559"
+             fill="#f0f0f0"
+             x="0"
+             y="0"
+             width="12.014218"
+             height="13.08" />
+          <line
+             x1="3.9746256"
+             y1="4.3702188"
+             x2="8.4278383"
+             y2="9.2184753"
+             id="line3561"
+             stroke="#868685"
+             stroke-width="1.5" />
+          <line
+             x1="3.9746256"
+             y1="4.3702188"
+             x2="8.4278383"
+             y2="9.2184753"
+             id="line3563"
+             stroke="#868685"
+             stroke-width="1.5"
+             transform="matrix(-1,0,0,1,12.402464,0)" />
+        </g>
+      </g>
+      <g
+         id="Address-Bar-&amp;-Container"
+         transform="translate(0,37)">
+        <polygon
+           id="Rectangle-3"
+           fill="#f0f0f0"
+           points="0,0 0,35 1280,35 1280,0 " />
+        <g
+           id="Chrome-more-menu"
+           transform="translate(1267.0968,9)"
+           fill="#aaaaaa">
+          <ellipse
+             id="Oval"
+             cx="2.7049732"
+             cy="2.5833333"
+             rx="2.7049732"
+             ry="2.5833333" />
+          <ellipse
+             id="Oval-Copy"
+             cx="2.7049732"
+             cy="8.7833338"
+             rx="2.7049732"
+             ry="2.5833333" />
+          <ellipse
+             id="Oval-Copy-2"
+             cx="2.7049732"
+             cy="14.983334"
+             rx="2.7049732"
+             ry="2.5833333" />
+        </g>
+        <line
+           x1="0"
+           y1="35"
+           x2="1278.7097"
+           y2="35"
+           id="Line"
+           stroke="#d6d6d6"
+           stroke-linecap="square" />
+        <path
+           d="M 72.995163,4 C 71.34098,4 70,5.3441086 70,6.9907522 V 26.009248 C 70,27.660995 71.340023,29 72.995163,29 H 1253.3823 c 1.6542,0 2.9951,-1.344109 2.9951,-2.990752 V 6.9907522 C 1256.3774,5.3390054 1255.0374,4 1253.3823,4 Z"
+           id="URL-Bar"
+           fill="#ffffff" />
+        <text
+           id="Page-Url"
+           font-family="LucidaGrande, 'Lucida Grande'"
+           font-size="12px"
+           font-weight="normal"
+           fill="#767676"><tspan
+             x="77"
+             y="21"
+             id="tspan3575">https://designers.italia.it/</tspan></text>
+        <g
+           id="Back-/-Forward-Tools"
+           transform="translate(10,13)"
+           stroke="#adadad"
+           stroke-linecap="round">
+          <g
+             id="Group-59"
+             transform="translate(41.546666)"
+             stroke-linejoin="round"
+             stroke-width="3">
+            <line
+               x1="0.30607638"
+               y1="0.139981"
+               x2="7.9354439"
+               y2="7.530931"
+               id="Path-16" />
+            <line
+               x1="0.30607638"
+               y1="0.139981"
+               x2="7.9354439"
+               y2="7.530931"
+               id="line3579"
+               transform="matrix(-1,0,0,1,8.24152,0)" />
+          </g>
+          <g
+             id="g3586">
+            <line
+               x1="3.7869835"
+               y1="0.21410888"
+               x2="0.091398098"
+               y2="3.7942071"
+               id="Path-14"
+               stroke-width="3" />
+            <line
+               x1="3.7869835"
+               y1="3.7446644"
+               x2="0.091398098"
+               y2="7.3247628"
+               id="line3583"
+               stroke-width="3"
+               transform="matrix(1,0,0,-1,0,11.069426)" />
+            <line
+               x1="1.1317708"
+               y1="4.0601387"
+               x2="9.4419088"
+               y2="4.0601387"
+               id="Path-20"
+               stroke-width="3.5" />
+          </g>
+          <g
+             id="g3594"
+             transform="matrix(-1,0,0,1,30.613333,0)">
+            <line
+               x1="3.7869835"
+               y1="0.21410888"
+               x2="0.091398098"
+               y2="3.7942071"
+               id="line3588"
+               stroke-width="3" />
+            <line
+               x1="3.7869835"
+               y1="3.7446644"
+               x2="0.091398098"
+               y2="7.3247628"
+               id="line3590"
+               stroke-width="3"
+               transform="matrix(1,0,0,-1,0,11.069426)" />
+            <line
+               x1="1.1317708"
+               y1="4.0601387"
+               x2="9.4419088"
+               y2="4.0601387"
+               id="line3592"
+               stroke-width="3.5" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

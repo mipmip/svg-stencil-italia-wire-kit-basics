@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="849.86481mm"
+   height="1138.8922mm"
+   viewBox="0 0 849.86481 1138.8922"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="tmpybwy97o7"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.09199118"
+     inkscape:cx="1505.5791"
+     inkscape:cy="2451.322"
+     inkscape:window-width="1440"
+     inkscape:window-height="811"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer7"
+     showborder="true"
+     lock-margins="true"
+     fit-margin-top="20"
+     fit-margin-left="20"
+     fit-margin-right="20"
+     fit-margin-bottom="20"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="android3"
+     transform="translate(-3.4353907,2.156121)"
+     style="display:inline">
+    <g
+       id="margin-android"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+       transform="matrix(0.26458333,0,0,0.26458333,541.10998,945.61956)">
+      <g
+         id="Navigation/NavBar/android-360"
+         transform="translate(0,592)">
+        <rect
+           id="navBar-bg"
+           fill="#baccd9"
+           fill-rule="evenodd"
+           x="0"
+           y="0"
+           width="360"
+           height="48" />
+        <rect
+           id="recent"
+           stroke="#ffffff"
+           stroke-width="2"
+           x="274"
+           y="17"
+           width="14"
+           height="14"
+           rx="2" />
+        <circle
+           id="home"
+           stroke="#ffffff"
+           stroke-width="2"
+           cx="180"
+           cy="24"
+           r="7" />
+        <path
+           d="m 85.772432,16.113105 -12.54917,7.254613 c -0.289188,0.167178 -0.289228,0.09926 0,0.266463 l 12.54917,7.254613 C 86.060571,31.055366 86,31.09043 86,30.755562 V 16.246337 c 0,-0.334821 0.06061,-0.299828 -0.227568,-0.133232 z"
+           id="back"
+           stroke="#ffffff"
+           stroke-width="2" />
+      </g>
+      <g
+         id="System-Bar/android">
+        <g
+           id="status-Bar-contents"
+           transform="translate(256,4)">
+          <text
+             id="12:30"
+             fill="#baccd9"
+             font-family="Helvetica"
+             font-size="14px"
+             font-weight="normal"><tspan
+               x="60.96582"
+               y="14"
+               id="tspan26024">12:30</tspan></text>
+          <polygon
+             id="bounds"
+             points="57,0 57,16 41,16 41,0 " />
+          <polygon
+             id="Shape-01"
+             fill="#baccd9"
+             points="50,1 47,1 47,1.875 44,1.875 44,15 53,15 53,1.875 50,1.875 " />
+          <polygon
+             id="polygon26029"
+             points="37,0 37,16 21,16 21,0 " />
+          <polygon
+             id="polygon26031"
+             fill="#baccd9"
+             points="21,15 35,15 35,1 " />
+          <polygon
+             id="polygon26033"
+             points="18,0 18,16 2,16 2,0 " />
+          <path
+             d="m 10,1 c 3.387294,0 6.512352,1.1227689 9.023316,3.0164501 L 10,15 0.97738905,4.0159184 C 3.4882332,2.1225588 6.6130227,1 10,1 Z"
+             id="path26035"
+             fill="#baccd9" />
+        </g>
+      </g>
+      <rect
+         id="Rectangle-5"
+         stroke="#979797"
+         x="0.5"
+         y="0.5"
+         width="359"
+         height="639" />
+      <polygon
+         id="Rectangle-4-Copy-4"
+         fill="#d0e3f6"
+         points="25,24 25,592 1,592 1,24 " />
+      <polygon
+         id="Rectangle-4-Copy-5"
+         fill="#d0e3f6"
+         points="359,24 359,592 335,592 335,24 " />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="152.70085mm"
+   height="38.898407mm"
+   viewBox="0 0 152.70085 38.898407"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer2"
+     style="display:inline"
+     transform="translate(-217.91267,-99.434281)">
+    <g
+       id="Group-2"
+       transform="matrix(0.26458333,0,0,0.26458333,316.39171,95.050573)"
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+      <g
+         id="Colors/wireframe/dark"
+         fill="#cfdce6"
+         transform="translate(104.93285,16.568345)">
+        <rect
+           id="Rectangle-16-Copy-9"
+           x="0"
+           y="0"
+           width="100"
+           height="100" />
+      </g>
+      <rect
+         id="Rectangle-2-Copy-5"
+         stroke="#738694"
+         stroke-width="0.5"
+         x="105.18285"
+         y="16.818346"
+         width="99.5"
+         height="146.5" />
+      <text
+         id="dark"
+         font-family="Helvetica"
+         font-size="16px"
+         font-weight="normal"
+         letter-spacing="-0.187013"
+         fill="#738694"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16.0002px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.187013;fill:#738694"
+         y="145.8269"
+         x="136.30107"><tspan
+           id="tspan2279"
+           x="136.30107"
+           y="145.8269">dark</tspan></text>
+    </g>
+    <g
+       id="Group-3"
+       transform="matrix(0.26458333,0,0,0.26458333,281.08926,99.434282)"
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+      <g
+         id="Colors/wireframe/medium"
+         fill="#e4eaef">
+        <rect
+           id="Rectangle-16-Copy-8"
+           x="0"
+           y="0"
+           width="100"
+           height="100" />
+      </g>
+      <rect
+         id="Rectangle-2-Copy-4"
+         stroke="#738694"
+         stroke-width="0.5"
+         x="0.25"
+         y="0.25"
+         width="99.5"
+         height="146.5" />
+      <text
+         id="medium"
+         font-family="Helvetica"
+         font-size="16px"
+         font-weight="normal"
+         letter-spacing="-0.187013"
+         fill="#738694"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16.0002px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.187013;fill:#738694"
+         y="125.48144"
+         x="20.410093"><tspan
+           id="tspan2241"
+           x="20.410093"
+           y="125.48144">medium</tspan></text>
+    </g>
+    <g
+       id="Group-4"
+       transform="matrix(0.26458333,0,0,0.264615,249.66268,99.434282)"
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+      <g
+         id="Colors/wireframe/light"
+         fill="#f9f9fa">
+        <rect
+           id="Rectangle-16-Copy-7"
+           x="-5.6843419e-14"
+           y="0"
+           width="100"
+           height="100" />
+      </g>
+      <rect
+         id="Rectangle-2-Copy-3"
+         stroke="#738694"
+         stroke-width="0.5"
+         x="0.25"
+         y="0.25"
+         width="99.5"
+         height="146.5" />
+      <text
+         id="light"
+         font-family="Helvetica"
+         font-size="16px"
+         font-weight="normal"
+         letter-spacing="-0.187013"
+         fill="#738694"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15.9992px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.187013;fill:#738694"><tspan
+           x="37.291752"
+           y="125"
+           id="tspan2682"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15.9992px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">light</tspan></text>
+    </g>
+    <g
+       id="Group-5"
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+       transform="matrix(0.26458333,0,0,0.26458333,217.91267,99.291656)">
+      <rect
+         id="Rectangle-16-Copy-11"
+         fill="#5a768a"
+         x="0"
+         y="0.5390625"
+         width="100"
+         height="100" />
+      <rect
+         id="Rectangle-2-Copy-7"
+         stroke="#738694"
+         stroke-width="0.5"
+         x="0.25"
+         y="0.7890625"
+         width="99.5"
+         height="146.5" />
+      <text
+         id="base"
+         font-family="Helvetica"
+         font-size="16px"
+         font-weight="normal"
+         letter-spacing="-0.187013"
+         fill="#738694"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16.0002px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.187013;fill:#738694"
+         y="125.85805"
+         x="33.637482"><tspan
+           id="tspan2185"
+           x="33.637482"
+           y="125.85805">base</tspan></text>
+    </g>
+    <g
+       id="Group"
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+       transform="matrix(0.26458333,0,0,0.26458333,312.31004,99.434282)">
+      <g
+         id="Colors/wireframe/darker"
+         fill="#baccd9">
+        <rect
+           id="Rectangle-16-Copy-10"
+           x="0"
+           y="0"
+           width="100"
+           height="100" />
+      </g>
+      <rect
+         id="Rectangle-2-Copy-6"
+         stroke="#738694"
+         stroke-width="0.5"
+         x="0.25"
+         y="0.25"
+         width="99.5"
+         height="146.5" />
+      <text
+         id="darker-copy"
+         font-family="Helvetica"
+         font-size="16px"
+         font-weight="normal"
+         letter-spacing="-0.187013"
+         fill="#738694"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16.0002px;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.187013;fill:#738694"
+         x="25.286615"
+         y="127.76395"><tspan
+           id="tspan6388"
+           x="25.286615"
+           y="127.76395">darker</tspan></text>
+    </g>
+  </g>
+</svg>

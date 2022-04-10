@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="849.86481mm"
+   height="1138.8922mm"
+   viewBox="0 0 849.86481 1138.8922"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="tmp858x9k5j"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.09199118"
+     inkscape:cx="1505.5791"
+     inkscape:cy="2451.322"
+     inkscape:window-width="1440"
+     inkscape:window-height="811"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer7"
+     showborder="true"
+     lock-margins="true"
+     fit-margin-top="20"
+     fit-margin-left="20"
+     fit-margin-right="20"
+     fit-margin-bottom="20"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="iphone5"
+     transform="translate(-3.4353907,2.156121)"
+     style="display:inline">
+    <g
+       id="Keyboard-Phone---4.7&quot;"
+       transform="matrix(0.26458333,0,0,0.26458333,694.74831,506.68349)"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+      <rect
+         id="Background"
+         stroke="#c6cbd4"
+         fill="#e2e4e9"
+         x="0"
+         y="2"
+         width="375"
+         height="216" />
+      <g
+         id="Shapes"
+         transform="translate(0,2)">
+        <rect
+           id="Shape"
+           fill="#cfdce6"
+           x="0"
+           y="163"
+           width="123"
+           height="53" />
+        <rect
+           id="rect10936"
+           fill="#ffffff"
+           x="0"
+           y="109"
+           width="122"
+           height="53" />
+        <rect
+           id="rect10938"
+           fill="#ffffff"
+           x="0"
+           y="55"
+           width="122"
+           height="53" />
+        <rect
+           id="rect10940"
+           fill="#ffffff"
+           x="0"
+           y="0"
+           width="122"
+           height="54" />
+        <rect
+           id="rect10942"
+           fill="#ffffff"
+           x="123"
+           y="163"
+           width="129"
+           height="53" />
+        <rect
+           id="rect10944"
+           fill="#ffffff"
+           x="123"
+           y="109"
+           width="129"
+           height="53" />
+        <rect
+           id="rect10946"
+           fill="#ffffff"
+           x="123"
+           y="55"
+           width="129"
+           height="53" />
+        <rect
+           id="rect10948"
+           fill="#ffffff"
+           x="123"
+           y="0"
+           width="129"
+           height="54" />
+        <rect
+           id="rect10950"
+           fill="#cfdce6"
+           x="252"
+           y="163"
+           width="123"
+           height="53" />
+        <path
+           d="m 303.5,188.5 v 0 c 0,0.8269 6.25088,6.33244 6.25088,6.33244 0.41149,0.36788 1.19764,0.66756 1.75092,0.66756 h 9.49679 C 322.10103,195.5 323,194.60528 323,193.50158 V 183.49842 C 323,182.39706 322.10394,181.5 320.99859,181.5 h -9.49679 c -0.55692,0 -1.33423,0.29622 -1.7443,0.66162 0,0 -6.2575,5.51148 -6.2575,6.33838 z m 17.49859,-8.5 c 1.93274,0 3.50141,1.56759 3.50141,3.49842 v 10.00316 c 0,1.93196 -1.57038,3.49842 -3.50141,3.49842 h -9.49679 c -0.9219,0 -2.06401,-0.43542 -2.74235,-1.04192 l -0.0811,-0.0716 c -0.0504,-0.0446 -0.11534,-0.10227 -0.19348,-0.17183 -0.21617,-0.19244 -0.45683,-0.40808 -0.71591,-0.64198 -0.7407,-0.66871 -1.48165,-1.35071 -2.17491,-2.00717 -0.13165,-0.12465 -0.26054,-0.24742 -0.38648,-0.36815 -2.36224,-2.26444 -3.15482,-3.12697 -3.20503,-4.09659 L 302,188.5 c 0,-1.01269 0.76436,-1.85527 3.21101,-4.20042 0.12593,-0.1207 0.2548,-0.24345 0.38642,-0.36807 0.69398,-0.6571 1.43569,-1.33979 2.17717,-2.00919 0.25935,-0.23414 0.50025,-0.45 0.71665,-0.64264 0.13037,-0.11606 0.22401,-0.19895 0.26834,-0.23796 C 309.44571,180.43034 310.57862,180 311.5018,180 Z m -8.22231,4.96562 c -0.29622,-0.29622 -0.76892,-0.29405 -1.06181,-0.001 v 0 l -0.0731,0.0846 c -0.219,0.29492 -0.19263,0.71037 0.0742,0.97722 v 0 l 2.47338,2.47372 -2.47338,2.47372 c -0.26929,0.26929 -0.29198,0.68443 -0.0738,0.97774 l 0.0727,0.0841 0.0846,0.0731 c 0.29492,0.219 0.71037,0.19263 0.97722,-0.0742 v 0 l 2.47372,-2.47338 2.47372,2.47338 c 0.26929,0.26929 0.68443,0.29198 0.97774,0.0738 l 0.0841,-0.0727 0.0731,-0.0846 c 0.219,-0.29492 0.19263,-0.71037 -0.0742,-0.97722 v 0 L 316.311,188.5 l 2.47338,-2.47372 c 0.26929,-0.26929 0.29198,-0.68443 0.0738,-0.97774 l -0.0727,-0.0841 -0.0846,-0.0731 c -0.29492,-0.219 -0.71037,-0.19263 -0.97722,0.0742 v 0 L 315.25,187.439 Z"
+           id="Delete-Icon"
+           fill="#5a768a"
+           fill-rule="nonzero" />
+        <rect
+           id="rect10953"
+           fill="#ffffff"
+           x="253"
+           y="109"
+           width="122"
+           height="53" />
+        <rect
+           id="rect10955"
+           fill="#ffffff"
+           x="253"
+           y="55"
+           width="122"
+           height="53" />
+        <rect
+           id="rect10957"
+           fill="#ffffff"
+           x="253"
+           y="0"
+           width="122"
+           height="54" />
+      </g>
+      <g
+         id="Text"
+         transform="translate(33)">
+        <text
+           id="1"
+           font-family="TitilliumWeb-Regular, 'Titillium Web'"
+           font-size="28px"
+           font-weight="normal"
+           letter-spacing="-0.875"
+           fill="#5a768a"><tspan
+             x="24.0975"
+             y="32"
+             id="tspan10960">1</tspan></text>
+        <text
+           id="4"
+           font-family="TitilliumWeb-Regular, 'Titillium Web'"
+           font-size="28px"
+           font-weight="normal"
+           letter-spacing="-0.875"
+           fill="#5a768a"><tspan
+             x="22.0975"
+             y="86"
+             id="tspan10963">4</tspan></text>
+        <text
+           id="7"
+           font-family="TitilliumWeb-Regular, 'Titillium Web'"
+           font-size="28px"
+           font-weight="normal"
+           letter-spacing="-0.875"
+           fill="#5a768a"><tspan
+             x="23.0975"
+             y="140"
+             id="tspan10966">7</tspan></text>
+        <text
+           id="2"
+           font-family="TitilliumWeb-Regular, 'Titillium Web'"
+           font-size="28px"
+           font-weight="normal"
+           letter-spacing="-0.875"
+           fill="#5a768a"><tspan
+             x="147.0975"
+             y="32"
+             id="tspan10969">2</tspan></text>
+        <text
+           id="5"
+           font-family="TitilliumWeb-Regular, 'Titillium Web'"
+           font-size="28px"
+           font-weight="normal"
+           letter-spacing="-0.875"
+           fill="#5a768a"><tspan
+             x="147.0975"
+             y="86"
+             id="tspan10972">5</tspan></text>
+        <text
+           id="8"
+           font-family="TitilliumWeb-Regular, 'Titillium Web'"
+           font-size="28px"
+           font-weight="normal"
+           letter-spacing="-0.875"
+           fill="#5a768a"><tspan
+             x="146.5975"
+             y="140"
+             id="tspan10975">8</tspan></text>
+        <text
+           id="0"
+           font-family="TitilliumWeb-Regular, 'Titillium Web'"
+           font-size="28px"
+           font-weight="normal"
+           letter-spacing="-0.875"
+           fill="#5a768a"><tspan
+             x="146.5975"
+             y="201"
+             id="tspan10978">0</tspan></text>
+        <text
+           id="3"
+           font-family="TitilliumWeb-Regular, 'Titillium Web'"
+           font-size="28px"
+           font-weight="normal"
+           letter-spacing="-0.875"
+           fill="#5a768a"><tspan
+             x="276.0975"
+             y="32"
+             id="tspan10981">3</tspan></text>
+        <text
+           id="6"
+           font-family="TitilliumWeb-Regular, 'Titillium Web'"
+           font-size="28px"
+           font-weight="normal"
+           letter-spacing="-0.875"
+           fill="#5a768a"><tspan
+             x="275.0975"
+             y="86"
+             id="tspan10984">6</tspan></text>
+        <text
+           id="9"
+           font-family="TitilliumWeb-Regular, 'Titillium Web'"
+           font-size="28px"
+           font-weight="normal"
+           letter-spacing="-0.875"
+           fill="#5a768a"><tspan
+             x="275.0975"
+             y="140"
+             id="tspan10987">9</tspan></text>
+        <text
+           id="GHI"
+           font-family="TitilliumWeb-Regular, 'Titillium Web'"
+           font-size="11px"
+           font-weight="normal"
+           letter-spacing="0.458333"
+           fill="#5a768a"><tspan
+             x="20.358999"
+             y="102"
+             id="tspan10990">GHI</tspan></text>
+        <text
+           id="PQRS"
+           font-family="TitilliumWeb-Regular, 'Titillium Web'"
+           font-size="11px"
+           font-weight="normal"
+           letter-spacing="0.458333"
+           fill="#5a768a"><tspan
+             x="16.322834"
+             y="156"
+             id="tspan10993">PQRS</tspan></text>
+        <text
+           id="TUV"
+           font-family="TitilliumWeb-Regular, 'Titillium Web'"
+           font-size="11px"
+           font-weight="normal"
+           letter-spacing="0.458333"
+           fill="#5a768a"><tspan
+             x="144.1765"
+             y="156"
+             id="tspan10996">TUV</tspan></text>
+        <text
+           id="WXYZ"
+           font-family="TitilliumWeb-Regular, 'Titillium Web'"
+           font-size="11px"
+           font-weight="normal"
+           letter-spacing="0.458333"
+           fill="#5a768a"><tspan
+             x="268.73434"
+             y="156"
+             id="tspan10999">WXYZ</tspan></text>
+        <text
+           id="JKL"
+           font-family="TitilliumWeb-Regular, 'Titillium Web'"
+           font-size="11px"
+           font-weight="normal"
+           letter-spacing="0.458333"
+           fill="#5a768a"><tspan
+             x="146.459"
+             y="102"
+             id="tspan11002">JKL</tspan></text>
+        <text
+           id="MNO"
+           font-family="TitilliumWeb-Regular, 'Titillium Web'"
+           font-size="11px"
+           font-weight="normal"
+           letter-spacing="0.458333"
+           fill="#5a768a"><tspan
+             x="271.84451"
+             y="102"
+             id="tspan11005">MNO</tspan></text>
+        <text
+           id="DEF"
+           font-family="TitilliumWeb-Regular, 'Titillium Web'"
+           font-size="11px"
+           font-weight="normal"
+           letter-spacing="0.458333"
+           fill="#5a768a"><tspan
+             x="274.33051"
+             y="48"
+             id="tspan11008">DEF</tspan></text>
+        <text
+           id="ABC"
+           font-family="TitilliumWeb-Regular, 'Titillium Web'"
+           font-size="11px"
+           font-weight="normal"
+           letter-spacing="0.458333"
+           fill="#5a768a"><tspan
+             x="144.1545"
+             y="48"
+             id="tspan11011">ABC</tspan></text>
+        <g
+           id="+"
+           transform="translate(0,183)"
+           fill="#8499a8">
+          <rect
+             id="rect11014"
+             x="6.5"
+             y="0"
+             width="1"
+             height="14" />
+          <rect
+             id="rect11016"
+             x="0"
+             y="6"
+             width="14"
+             height="1" />
+        </g>
+        <g
+           id="#"
+           transform="translate(39,183)"
+           fill="#8499a8">
+          <rect
+             id="rect11019"
+             x="4"
+             y="0"
+             width="1"
+             height="14" />
+          <rect
+             id="rect11021"
+             x="9"
+             y="0"
+             width="1"
+             height="14" />
+          <rect
+             id="rect11023"
+             x="0"
+             y="4"
+             width="14"
+             height="1" />
+          <rect
+             id="rect11025"
+             x="0"
+             y="9"
+             width="14"
+             height="1" />
+        </g>
+        <g
+           id="*"
+           transform="translate(19,183)"
+           fill="#6e8798">
+          <rect
+             id="rect11028"
+             x="0"
+             y="6"
+             width="14"
+             height="1" />
+          <polygon
+             id="polygon11030"
+             transform="rotate(60,7,6.5)"
+             points="-2.7045033e-13,7 -2.7045033e-13,6 14,6 14,7 " />
+          <polygon
+             id="polygon11032"
+             transform="rotate(-60,7,6.5)"
+             points="-9.2148511e-14,7 -9.2148511e-14,6 14,6 14,7 " />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

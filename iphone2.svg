@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="849.86481mm"
+   height="1138.8922mm"
+   viewBox="0 0 849.86481 1138.8922"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="tmpldh8qkr9"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.09199118"
+     inkscape:cx="1505.5791"
+     inkscape:cy="2451.322"
+     inkscape:window-width="1440"
+     inkscape:window-height="811"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer7"
+     showborder="true"
+     lock-margins="true"
+     fit-margin-top="20"
+     fit-margin-left="20"
+     fit-margin-right="20"
+     fit-margin-bottom="20"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="iphone2"
+     transform="translate(-3.4353907,2.156121)"
+     style="display:inline">
+    <g
+       id="Frame/iPhone-6-dark"
+       transform="matrix(0.26458333,0,0,0.26458333,538.20833,117.09016)"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+      <g
+         id="iPhone-6-Mockup-9"
+         stroke-width="1">
+        <path
+           d="m 4.4545685,353.81562 -2.461806,-0.0736 C 0.89219015,353.7091 0,352.79391 0,351.67849 v -60.58412 c 0,-1.10674 0.9014484,-2.01967 1.9927625,-2.03871 l 2.461806,-0.043 v -38.05592 l -1.4585924,-0.001 C 1.3413442,250.95378 0,249.60404 0,247.94665 v -58.54913 c 0,-1.66007 1.3365174,-3.00826 2.9959761,-3.01127 l 1.4585924,-0.003 V 148.72658 H 2.9959761 C 1.3413442,148.72693 0,147.38061 0,145.72262 V 120.3985 c 0,-1.65924 1.3365056,-3.00432 3.0039062,-3.00432 H 5.1898123 L 4.830402,60.00822 C 4.6228349,26.866595 31.312443,0 64.451241,0 H 375.43739 c 33.13525,0 59.99668,26.868254 59.99668,60.002234 V 186.1448 h 1.45859 c 1.65463,0 2.99598,1.34593 2.99598,3.00993 v 57.7167 c 0,1.66234 -1.33652,3.00993 -2.99598,3.00993 h -1.45859 V 811.99561 C 435.43407,845.13512 408.57619,872 375.43739,872 H 64.451241 C 31.315994,872 4.4545685,845.14113 4.4545685,812.0039 Z"
+           id="iPhone6-full-Colors"
+           fill="#baccd9" />
+        <ellipse
+           id="home-Buttons-0"
+           stroke="#ffffff"
+           stroke-width="3"
+           cx="219.3875"
+           cy="818.47571"
+           rx="33.409264"
+           ry="33.452686" />
+        <ellipse
+           id="camera-5"
+           stroke="#ffffff"
+           stroke-width="2"
+           cx="152.56897"
+           cy="59.099743"
+           rx="6.6818528"
+           ry="6.690537" />
+        <rect
+           id="speaker-5"
+           stroke="#ffffff"
+           stroke-width="2"
+           x="188.09187"
+           y="53.409206"
+           width="80.409515"
+           height="11.381074"
+           rx="5.690537" />
+      </g>
+      <g
+         id="Contained-6"
+         stroke-width="1"
+         transform="translate(32,103)"
+         fill="#ffffff">
+        <polygon
+           id="Mask"
+           points="374.50133,0.70332481 374.50133,667.70332 0.49867021,667.70332 0.49867021,0.70332481 " />
+      </g>
+      <polygon
+         id="Rectangle-17-Copy-2"
+         fill="#baccd9"
+         points="363,35 363,57 341,57 341,35 " />
+      <polygon
+         id="Rectangle-17-Copy-3"
+         fill="#e4eaef"
+         points="427,35 427,57 405,57 405,35 " />
+      <polygon
+         id="Rectangle-17"
+         fill="#cfdce6"
+         points="394,35 394,57 372,57 372,35 " />
+      <polygon
+         id="Rectangle-17-Copy"
+         fill="#f9f9fa"
+         points="454,115 454,137 432,137 432,115 " />
+    </g>
+  </g>
+</svg>
